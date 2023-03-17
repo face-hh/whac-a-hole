@@ -6,8 +6,8 @@ A blazingly fast implementation of the classic **arcade game** What-A-Hole insid
 
 - 🚀) Install [Rust](https://www.rust-lang.org/tools/install)
 - 🚀🚀) Clone/download the repository.
-- 🚀🚀🚀) On line **256**, change the empty string (`""`) to your [Discord token](https://discord.com/developers/applications).
-- 🚀🚀🚀🚀) Run `cargo run` inside the repository folder.
+- 🚀🚀🚀) On line **256** change the empty string (`""`) to your [Discord token](https://discord.com/developers/applications).
+- 🚀🚀🚀🚀) Run `cargo run --release` inside the repository folder.
 - 🚀🚀🚀🚀🚀) Go to a server where the bot is in, and run `/whac-a-hole`!
 
 # 🚀 Contributions
