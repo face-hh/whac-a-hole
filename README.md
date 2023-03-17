@@ -1,6 +1,6 @@
 # Whac-A-Hole
 
-An implementation of the classic **arcade game** What-A-Hole inside Discord, made in 12 hours, with no experience in Rust (🚀🚀🚀). 🚀!
+A blazingly fast implementation of the classic **arcade game** What-A-Hole inside Discord, made in 12 hours, with no experience in Rust (🚀🚀🚀). 🚀!
 
 # 🚀 Installation
 
