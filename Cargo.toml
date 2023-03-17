@@ -1,0 +1,20 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.21.2", features = ["macros", "rt-multi-thread"] }
+anyhow = "1.0.69"
+rand = "0.8.5"
+
+[dependencies.serenity]
+default-features = false
+features = ["builder", "cache", "client", "gateway", "http", "model", "utils", "rustls_backend"]
+version = "0.11"
+
+[[bin]]
+name = "rust"
+path = "src/main.rs"

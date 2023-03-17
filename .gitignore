@@ -1,0 +1,4 @@
+/target
+.env
+main.exe
+main.pdb
