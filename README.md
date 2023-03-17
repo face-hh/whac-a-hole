@@ -13,5 +13,11 @@ An implementation of the classic **arcade game** What-A-Hole inside Discord, mad
 # 🚀 Contributions
 > Contributions 🚀 are 🚀 appreciated 🚀, 🚀 however, 🚀 do 🚀 not 🚀 heavily 🚀 modify 🚀 the 🚀 code 🚀 structure 🚀 (modify 🚀 the 🚀 game's 🚀 logic 🚀 or 🚀 rules 🚀)
 
+# 🚀 Known issues
+
+- 🚀 Anyone can interact with anyone's game.
+- 🚀 The game does not stop getting input when it stops, if the user clicks the buttons and the bot tries to edit the message with the loss, the game will continue with 0 score.
+- 🚀 nothing else, rust!!! 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
 # Credits
 🚀 [YouTube](https://youtube.com/FaceDevStuff) here ;)
